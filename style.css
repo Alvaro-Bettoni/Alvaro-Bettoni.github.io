@@ -12,5 +12,26 @@ body{
     font-size: 20px;
 }
 #negrito{
-    font-style:initial;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+#italico{
+    font-style: oblique;
+    font-family: serif;
+    font-size: 25px;
+}
+
+.comunica{
+    font-size: 20px;
+}
+
+.html{
+    font-size: 25px;
+}
+.css{
+    font-size: 15px;
+}
+
+.javascript{
+    font-size: 30px;
 }
